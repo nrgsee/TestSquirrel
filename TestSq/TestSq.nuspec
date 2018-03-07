@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TestSq</id>
+    <version>1.0.9</version>
+    <title>TestSq</title>
+    <authors>Rozputnii</authors>
+    <owners>Rozputnii</owners>
+    <!--<licenseUrl>None</licenseUrl>
+    <projectUrl>None</projectUrl>
+    <iconUrl>None</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>THis is good app</description>
+    <releaseNotes>Some update</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <!--<tags>Tag1 Tag2</tags>-->
+  </metadata>
+  <files>
+    <file src="bin\Debug\*.*" target="lib\net45\"></file>
+  </files>
+</package>
